@@ -6,6 +6,12 @@
 127.0.0.1	www.youtube.com
 127.0.0.1	reddit.com
 127.0.0.1	www.reddit.com
+127.0.0.1	livemint.com
+127.0.0.1	www.livemint.com
+127.0.0.1	indianexpress.com
+127.0.0.1	www.indianexpress.com
+127.0.0.1	firstpost.com
+127.0.0.1	www.firstpost.com
 
 
 # The following lines are desirable for IPv6 capable hosts
